@@ -66,7 +66,7 @@ Churn probability prediction and analysis
 
 XGBoost outperformed the baseline Logistic Regression model
 
-Achieved ROC-AUC score greater than 0.84
+Achieved ROC-AUC score greater than 0.80
 
 Generated churn probability scores to identify high-risk customers
 
